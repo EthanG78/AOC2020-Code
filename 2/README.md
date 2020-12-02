@@ -1,4 +1,4 @@
-# AOC 2020 Day 1
+# AOC 2020 Day 2
 --- 
 (Taken from https://adventofcode.com/2020/day/2)
 
